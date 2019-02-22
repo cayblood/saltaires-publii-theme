@@ -1,2 +1,3 @@
 # saltaires-publii-theme
-publii-compatible theme for saltaires.org
+
+This is based on the Publii starter theme.
